@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Run logs (generated locally by data_logger.py)
+src/logs/*.csv
+
+# Third-party simulator install (obtain separately, see README)
+AI-GP Simulator v1.0.3364/
